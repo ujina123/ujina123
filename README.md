@@ -29,16 +29,3 @@ Here are some ideas to get you started:
 
   <a href="mailto:dldbwls7182@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=dldbwls7182@gmail.com"/></a>&nbsp
 </p>
-
-
-<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
-<p align="center">
-  ![Yujin's github stats](https://github-readme-stats.vercel.app/api?username=ujina123&show_icons=true&theme=tokyonight)</a>&nbsp
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ujina123&layout=compact&theme=tokyonight)</a>&nbsp
-</p>
-<a href="https://leeyujin.tistory.com">
-  <img src="https://img.shields.io/badge/yujin-Blog-brightgreen?style=flat-square&logo=Vimeo&logoColor=white&link=[https://leeyujin.tistory.com]"/>
-</a>
-
-
