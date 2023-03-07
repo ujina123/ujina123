@@ -28,3 +28,5 @@ Here are some ideas to get you started:
   <a href="https://leeyujin.tistory.com"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://leeyujin.tistory.com"/></a>&nbsp
   <a href="mailto:dldbwls7182@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=dldbwls7182@gmail.com"/></a>&nbsp
 </p>
+
+[![Yujin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ujina123)](https://github.com/ujina123/github-readme-stats)
