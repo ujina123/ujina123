@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 </div>
 
 <div align="left">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ujina123&show_icons=true&theme=transparent)](https://github.com/ujina123/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ujina123&show_icons=true&theme=transparent)(https://github.com/ujina123/github-readme-stats)
 </div>
 
 <a href="https://leeyujin.tistory.com">
