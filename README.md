@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
-<div align="center">>
+<div align="center">
 ![yujin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ujina123&count_private=true)
 </div>
 
