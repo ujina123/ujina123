@@ -36,8 +36,8 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-![yujin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ujina123&count_private=true)
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujina123&layout=compact">
+![Yujin's github stats](https://github-readme-stats.vercel.app/api?username=ujina123&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ujina123&layout=compact&theme=tokyonight)
 </div>
 
 <a href="https://leeyujin.tistory.com">
