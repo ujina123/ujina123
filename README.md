@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-  ![yujin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ujina123&count_private=true)
+![yujin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ujina123&count_private=true)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujina123&layout=compact">
 </div>
 
