@@ -29,4 +29,20 @@ Here are some ideas to get you started:
   <a href="mailto:dldbwls7182@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=dldbwls7182@gmail.com"/></a>&nbsp
 </p>
 
-[![Yujin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ujina123)](https://github.com/ujina123/github-readme-stats)
+<p align="center">
+  <a href="https://github.com/ujina123/github-readme-stats">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=ujina123&exclude_repo=github-readme-stats" />
+  </a>
+  <a href="https://github.com/ujina123/github-readme-stats">
+    <img align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujina123" />
+  </a>
+</p>
+  
+<p align="center">
+  <a href="https://github.com/ujina123/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ujina123&repo=Dacon-Gas-Supply-Predict-3rd_place" />
+  </a>
+  <a href="https://github.com/ujina123/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ujina123&repo=Plant_recognition_project" />
+  </a>
+</p>
