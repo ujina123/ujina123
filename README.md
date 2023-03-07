@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 </p>
 
 
-<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
+<h3 align="right">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
 
 ![yujin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ujina123&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)
