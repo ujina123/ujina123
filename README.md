@@ -37,7 +37,8 @@ Here are some ideas to get you started:
 
 <div align="center">
 ![Yujin's github stats](https://github-readme-stats.vercel.app/api?username=ujina123&show_icons=true&theme=tokyonight)</a>
-  
+</div>
+<div align="center">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ujina123&layout=compact&theme=tokyonight)</a>
 </div>
 
