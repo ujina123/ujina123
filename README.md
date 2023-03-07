@@ -32,12 +32,12 @@ Here are some ideas to get you started:
 
 
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
-<div align="left">
+<p align="left">
 ![yujin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ujina123&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)
-</div>
-<div align="right">
+</p>
+<p align="right">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujina123&layout=compact">
-</div>
+</p>
 
 <a href="https://leeyujin.tistory.com">
   <img src="https://img.shields.io/badge/yujin-Blog-brightgreen?style=flat-square&logo=Vimeo&logoColor=white&link=[https://leeyujin.tistory.com]"/>
