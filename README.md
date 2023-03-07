@@ -37,8 +37,8 @@ Here are some ideas to get you started:
 ![yujin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ujina123&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)
 </div>
 
-<div align="left">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ujina123&show_icons=true&theme=transparent)(https://github.com/ujina123/github-readme-stats)
+<div align="right">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ujina123&show_icons=true&theme=transparent)](https://github.com/ujina123/github-readme-stats)
 </div>
 
 <a href="https://leeyujin.tistory.com">
