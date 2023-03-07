@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </div>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ujina123&layout=compact)](https://github.com/ujina123/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ujina123&show_icons=true&theme=transparent)](https://github.com/ujina123/github-readme-stats)
 
 <a href="https://leeyujin.tistory.com">
   <img src="https://img.shields.io/badge/yujin-Blog-brightgreen?style=flat-square&logo=Vimeo&logoColor=white&link=[https://leeyujin.tistory.com]"/>
