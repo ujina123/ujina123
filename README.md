@@ -38,11 +38,3 @@ Here are some ideas to get you started:
   </a>
 </p>
   
-<p align="center">
-  <a href="https://github.com/ujina123/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ujina123&repo=Dacon-Gas-Supply-Predict-3rd_place" />
-  </a>
-  <a href="https://github.com/ujina123/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ujina123&repo=Plant_recognition_project" />
-  </a>
-</p>
