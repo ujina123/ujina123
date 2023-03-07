@@ -33,11 +33,8 @@ Here are some ideas to get you started:
 
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="left">
-
 ![yujin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ujina123&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)
-</div>
 
-<div align="right">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujina123&layout=compact">
 </div>
 
