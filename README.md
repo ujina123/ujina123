@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ujina123&langs_count=8)](https://github.com/ujina123/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ujina123&layout=compact)](https://github.com/ujina123/github-readme-stats)
+
+<!-- <img src="https://img.shields.io/badge/버튼에표시될이름-색상코드?style=flat-square&logo=이름&logoColor=white"/> -->
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
