@@ -27,17 +27,16 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="https://leeyujin.tistory.com"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://leeyujin.tistory.com"/></a>&nbsp
 
-  <a href="mailto:dldbwls7182@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=dldbwls7182@gmail.com"/></a>
+  <a href="mailto:dldbwls7182@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=dldbwls7182@gmail.com"/></a>&nbsp
 </p>
 
 
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 
 
+![Yujin's github stats](https://github-readme-stats.vercel.app/api?username=ujina123&show_icons=true&theme=tokyonight)</a>&nbsp
 
-![Yujin's github stats](https://github-readme-stats.vercel.app/api?username=ujina123&show_icons=true&theme=tokyonight)</a>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ujina123&layout=compact&theme=tokyonight)</a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ujina123&layout=compact&theme=tokyonight)</a>&nbsp
 
 
 [![Yujin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ujina123)](https://github.com/ujina123/github-readme-stats)
