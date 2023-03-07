@@ -34,12 +34,9 @@ Here are some ideas to get you started:
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 
 
-![Yujin's github stats](https://github-readme-stats.vercel.app/api?username=ujina123&show_icons=true&theme=tokyonight)</a>&nbsp
+ <a align="left">![Yujin's github stats](https://github-readme-stats.vercel.app/api?username=ujina123&show_icons=true&theme=tokyonight)</a>&nbsp
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ujina123&layout=compact&theme=tokyonight)</a>&nbsp
-
-
-[![Yujin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ujina123)](https://github.com/ujina123/github-readme-stats)
 
 <a href="https://leeyujin.tistory.com">
   <img src="https://img.shields.io/badge/yujin-Blog-brightgreen?style=flat-square&logo=Vimeo&logoColor=white&link=[https://leeyujin.tistory.com]"/>
