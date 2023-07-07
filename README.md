@@ -15,6 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h3>🌱 Follow Me 🌱</h3>
+<p>
+  <a href="https://leeyujin.tistory.com"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://leeyujin.tistory.com"/></a>&nbsp
+  <a href="mailto:dldbwls7182@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=dldbwls7182@gmail.com"/>      </a>&nbsp
+  
+</p>
+
 <h3>📚 Tech Stack 📚</h3>
 <p>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
@@ -22,11 +29,14 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
 </p>
-<h3>🌱 Follow Me 🌱</h3>
-<p>
-  <a href="https://leeyujin.tistory.com"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://leeyujin.tistory.com"/></a>&nbsp
-  <a href="mailto:dldbwls7182@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=dldbwls7182@gmail.com"/></a>&nbsp
-</p>
+<h3>📚 Competition 📚</h3>
+
+|Name|Type|Performance|Rank|
+|---|---|---|---|
+|**[가스공급량 수요예측 모델개발(한국가스공사)](https://dacon.io/competitions/official/235830/overview/description)**|Computer Vision|:trophy:한국가스공사장상|3rd/259|
+|**[합성데이터 기반 객체 탐지 AI 경진대회](https://dacon.io/competitions/official/236107/overview/description)**|Computer Vision|Top 2%|17rd/833|
+
+
 <h3>⚡ Github Stats ⚡</h3>
 <p>
   <a href="https://github.com/ujina123/github-readme-stats">
@@ -36,9 +46,3 @@ Here are some ideas to get you started:
     <img align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujina123" />
   </a>
 </p>
-
-|Name|Type|Performance|Rank|
-|---|---|---|---|
-|**[가스공급량 수요예측 모델개발(한국가스공사)](https://dacon.io/competitions/official/235830/overview/description)**|Computer Vision|:trophy:한국가스공사장상|3rd/259|
-|**[합성데이터 기반 객체 탐지 AI 경진대회](https://dacon.io/competitions/official/236107/overview/description)**|Computer Vision|Top 2%|17rd/833|
-
