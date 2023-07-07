@@ -33,8 +33,8 @@ Here are some ideas to get you started:
 
 |Name|Date|Type|Performance|Rank|
 |---|---|---|---|---|
-|**[가스공급량 수요예측 모델개발(한국가스공사)](https://dacon.io/competitions/official/235830/overview/description)**|21.10.11 ~ 21.12.10|Computer Vision|:trophy:한국가스공사장상|3rd/259|
-|**[합성데이터 기반 객체 탐지 AI 경진대회](https://dacon.io/competitions/official/236107/overview/description)**|23.05.08 ~ 23.06.19|Computer Vision|Top 2%|17rd/833|
+|**[가스공급량 수요예측 모델개발(한국가스공사)](https://dacon.io/competitions/official/235830/overview/description)**|21.10.11 ~ 21.12.10 (2M)|Computer Vision|:trophy:한국가스공사장상|3rd/259|
+|**[합성데이터 기반 객체 탐지 AI 경진대회](https://dacon.io/competitions/official/236107/overview/description)**|23.05.08 ~ 23.06.19 (1M)|Computer Vision|Top 2%|17rd/833|
 
 
 <h3>⚡ Github Stats ⚡</h3>
