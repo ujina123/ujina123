@@ -25,10 +25,3 @@ AI 연구와 서비스 개발에 관심 있는 개발자입니다.
 
 <a href="https://leeyujin.tistory.com"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 <a href="mailto:dldbwls7182@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-
-### 📊 GitHub Stats
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ujina123&show_icons=true&theme=default" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujina123&layout=compact" />
-</p>
