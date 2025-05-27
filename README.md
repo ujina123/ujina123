@@ -19,7 +19,7 @@ AI 연구와 서비스 개발에 관심 있는 개발자입니다.
 |-----------|------|------|------|------|
 | [가스공급량 수요예측 (한국가스공사)](https://dacon.io/competitions/official/235830/overview/description) | 2021.10~12 | 시계열 예측 | 한국가스공사장상 | 3위 / 259팀 |
 | [합성데이터 기반 객체 탐지](https://dacon.io/competitions/official/236107/overview/description) | 2023.05~06 | 컴퓨터 비전 | Top 2% | 17위 / 833팀 |
-| 백내장 조기 스크리닝 (모두의연구소 A Eye Lab) | 2024.10~진행 중 | 컴퓨터 비전 | - | - |
+| [백내장 조기 스크리닝](https://www.youtube.com/watch?v=H8kktUOcub0) (모두의연구소 A Eye Lab) | 2024.10~진행 중 | 컴퓨터 비전 | - | - |
 
 ### Contact
 
