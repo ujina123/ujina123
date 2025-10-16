@@ -36,10 +36,13 @@ Generative AI · Psychological AI · Industrial AI
 ---
 
 ### 📬 Contact  
-
+<a href="https://sites.google.com/view/ylee-cv/%ED%99%88">
+  <img src="https://img.shields.io/badge/📄%20CV-BFD7EA?style=flat-square&logoColor=white"/>
+</a>
 <a href="https://leeyujin.tistory.com">
-  <img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Tistory&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Blog-E2F0CB?style=flat-square&logo=Tistory&logoColor=white"/>
 </a>
 <a href="mailto:leeyujin1081@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-FFB3BA?style=flat-square&logo=Gmail&logoColor=white"/>
 </a>
+
