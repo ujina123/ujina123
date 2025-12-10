@@ -7,12 +7,10 @@ Computer Vision · Multimodal Learning · Large Language Models (LLMs) ·
 Generative AI · Psychological AI · Industrial AI  
 
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
-</p>
+### 📬 Contact  
+<a href="https://sites.google.com/view/ylee-cv/%ED%99%88"><img src="https://img.shields.io/badge/📄%20CV-BFD7EA?style=flat-square&logoColor=white"/></a>
+<a href="https://leeyujin.tistory.com"><img src="https://img.shields.io/badge/Blog-E2F0CB?style=flat-square&logo=Tistory&logoColor=white"/></a>
+<a href="mailto:leeyujin1081@gmail.com"><img src="https://img.shields.io/badge/Gmail-FFB3BA?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 
 ### Projects  
@@ -32,17 +30,9 @@ Generative AI · Psychological AI · Industrial AI
 - **Field:** Computer Vision / Healthcare  
 - **Achievement:** [백내장 조기 스크리닝 시스템 개발 & 인도 현지 사용성 평가 완료 (의료 접근성 개선 가능성 검증)](https://www.youtube.com/watch?v=iqmsh5mbXqo&si=fCNHdW2fkoXWyeZW)
 
-
----
-
-### 📬 Contact  
-<a href="https://sites.google.com/view/ylee-cv/%ED%99%88">
-  <img src="https://img.shields.io/badge/📄%20CV-BFD7EA?style=flat-square&logoColor=white"/>
-</a>
-<a href="https://leeyujin.tistory.com">
-  <img src="https://img.shields.io/badge/Blog-E2F0CB?style=flat-square&logo=Tistory&logoColor=white"/>
-</a>
-<a href="mailto:leeyujin1081@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-FFB3BA?style=flat-square&logo=Gmail&logoColor=white"/>
-</a>
-
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+</p>
