@@ -30,6 +30,10 @@ Generative AI · Psychological AI · Industrial AI
 - **Field:** Computer Vision / Healthcare  
 - **Achievement:** [백내장 조기 스크리닝 시스템 개발 & 인도 현지 사용성 평가 완료 (의료 접근성 개선 가능성 검증)](https://www.youtube.com/watch?v=iqmsh5mbXqo&si=fCNHdW2fkoXWyeZW)
 
+#### [Adaptive Attention and Weighted Token Routing for Text-to-Image Retrieval](https://github.com/ujina123/AWARE.git)
+- **Period:** 2025.09 - 2025.10
+- **Field:** Text to Image Retrieval  
+
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
