@@ -15,7 +15,7 @@ Generative AI · Psychological AI · Industrial AI
 
 ### Projects  
 
-#### [가스공급량 수요예측 (한국가스공사)](https://dacon.io/competitions/official/235830/overview/description)  
+#### [가스공급량 수요예측 (한국가스공사)](https://github.com/ujina123/Dacon-Gas-Supply-Predict-3rd_place)  
 - **Period:** 2021.10 – 2021.12  
 - **Field:** Time Series Forecasting  
 - **Achievement:** 한국가스공사장상 (3위 / 259팀)  
