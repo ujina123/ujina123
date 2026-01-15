@@ -15,24 +15,24 @@ Generative AI · Psychological AI · Industrial AI
 
 ### Projects  
 
-#### [Gas supply demand forecast (Korea Gas Corporation)](https://github.com/ujina123/Dacon-Gas-Supply-Predict-3rd_place)  
-- **Period:** 2021.10 – 2021.12  
-- **Field:** Time Series Forecasting  
-- **Achievement:** 한국가스공사장상 (3위 / 259팀)  
-
-#### [Object detection based on synthetic data](https://dacon.io/competitions/official/236107/overview/description)  
-- **Period:** 2023.05 – 2023.06  
-- **Field:** Computer Vision  
-- **Achievement:** Top 2% (17위 / 833팀)  
+#### [Adaptive Attention and Weighted Token Routing for Text-to-Image Retrieval](https://github.com/ujina123/AWARE.git)
+- **Period:** 2025.09 - 2025.10
+- **Field:** Text to Image Retrieval  
 
 #### [Early cataract screening (Kakao Impact A Eye Lab)](https://www.youtube.com/watch?v=H8kktUOcub0)  
 - **Period:** 2024.10 – 2025.08  
 - **Field:** Computer Vision / Healthcare  
 - **Achievement:** [Development of an early cataract screening system and completion of a local usability evaluation in India (verification of potential improvement in medical accessibility)](https://www.youtube.com/watch?v=iqmsh5mbXqo&si=fCNHdW2fkoXWyeZW)
 
-#### [Adaptive Attention and Weighted Token Routing for Text-to-Image Retrieval](https://github.com/ujina123/AWARE.git)
-- **Period:** 2025.09 - 2025.10
-- **Field:** Text to Image Retrieval  
+#### [Object detection based on synthetic data](https://dacon.io/competitions/official/236107/overview/description)  
+- **Period:** 2023.05 – 2023.06  
+- **Field:** Computer Vision  
+- **Achievement:** Top 2% (17위 / 833팀)  
+
+#### [Gas supply demand forecast (Korea Gas Corporation)](https://github.com/ujina123/Dacon-Gas-Supply-Predict-3rd_place)  
+- **Period:** 2021.10 – 2021.12  
+- **Field:** Time Series Forecasting  
+- **Achievement:** 한국가스공사장상 (3위 / 259팀)  
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
